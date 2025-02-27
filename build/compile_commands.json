@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/ChatServer.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/ChatServer.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/ChatServer.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/ChatService.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/ChatService.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/ChatService.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/main.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/main.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/db/db.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/frinedmodel.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/frinedmodel.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/frinedmodel.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/groupmodel.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessage.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/offlinemessage.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/offlinemessage.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/usermodel.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/server",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/redis/redis.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/qingqi314134/Distributed-Cluster-Chat-Application/build/src/client",
+  "command": "/usr/bin/g++   -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/db -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/model -I/home/qingqi314134/Distributed-Cluster-Chat-Application/include/server/redis -I/home/qingqi314134/Distributed-Cluster-Chat-Application/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/qingqi314134/Distributed-Cluster-Chat-Application/src/client/main.cpp",
+  "file": "/home/qingqi314134/Distributed-Cluster-Chat-Application/src/client/main.cpp"
+}
+]
