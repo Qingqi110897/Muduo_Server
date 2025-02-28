@@ -16,7 +16,7 @@ using namespace muduo::net;
 #include "usermodel.hpp"
 #include "offlinemessagemodel.hpp"
 #include"json.hpp"
-
+#include"redis.hpp"
 using json=nlohmann::json;
 
 // 表示处理消息的事件回调方法类型
@@ -50,6 +50,8 @@ class ChatService
     //获取消息对应的处理器
     MsgHandler getHandler(int msgid);
 
+    // 从redis消息队列中获取订阅的消息
+    void handleRedisSubscribeMessage(int, string);
     private:
     //单例模式 构造函数私有化
     ChatService();
@@ -67,6 +69,7 @@ class ChatService
     FriendModel _friendModel;
     GroupModel _groupModel;
 
-    //
+    //redis操作对象
+    Redis _redis;
 };
 #endif
